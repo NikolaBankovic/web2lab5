@@ -1,4 +1,6 @@
-Pokretanje aplikacije:
+https://web2lab5-w47c.onrender.com
+
+Pokretanje aplikacije lokalno:
 u terminalu postaviti pokazivac u direktorij web2lab5 i pokrenuti naredbu:
 	npm run dev (po potrebi instalirati pakete: npm install)
 
