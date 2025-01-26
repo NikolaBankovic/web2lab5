@@ -1,6 +1,6 @@
 Pokretanje aplikacije:
 u terminalu postaviti pokazivac u direktorij web2lab5 i pokrenuti naredbu:
-	npm run dev
+	npm run dev (po potrebi instalirati pakete: npm install)
 
 1. interpolation/one-way binding - Da, src/views/HomePage.vue, :3
 
